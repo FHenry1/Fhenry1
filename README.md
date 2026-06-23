@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E76F00,100:5382A1&height=200&section=header&text=Fl%C3%A1vio%20Henry&fontColor=ffffff&fontSize=48&animation=fadeIn&fontAlignY=38&desc=Estudante%20de%20Eng.%20de%20Software%20%7C%20Back-end%20Java&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E76F00,100:5382A1&height=200&section=header&text=Fl%C3%A1vio%20Henry&fontColor=ffffff&fontSize=48&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Back-end%20Java%20Developer&descAlignY=58&descSize=18" width="100%" />
 
 <a href="https://github.com/Fhenry1">
   <img src="https://komarev.com/ghpvc/?username=Fhenry1&label=Profile%20views&color=E76F00&style=for-the-badge" alt="Profile views" />
 </a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E76F00&center=true&vCenter=true&width=600&lines=Estudante+de+programa%C3%A7%C3%A3o+%F0%9F%93%9A;Desenvolvedor+Back-end+J%C3%BAnior;Focado+em+Java+%E2%98%95)](https://github.com/Fhenry1)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E76F00&center=true&vCenter=true&width=600&lines=Software+Engineering+Student+%F0%9F%93%9A;Junior+Back-end+Developer;Focused+on+Java+%26+Kotlin+%E2%98%95)](https://github.com/Fhenry1)
 
 </div>
 
@@ -14,18 +14,18 @@
 
 <div align="center">
 
-### 🇧🇷 Sobre mim
+### 🇧🇷 About me
 
-Sou **estudante de Engenharia de Software** e **desenvolvedor Júnior**, com foco em **back-end usando Java**.  
-Estou sempre aprendendo, evoluindo e construindo projetos para me aprofundar cada vez mais na área.
+I'm a **Software Engineering student** and **Junior Developer**, focused on **back-end development with Java**.  
+Always learning, evolving, and building projects to go deeper into the field.
 
-Apaixonado por lógica, resolução de problemas e por construir coisas que funcionam de verdade.
+Passionate about logic, problem-solving, and building things that actually work.
 
 </div>
 
 ---
 
-## 🌐 Onde me encontrar
+## 🌐 Where to find me
 
 <p align="center">
   <a href="https://github.com/Fhenry1">
@@ -41,30 +41,31 @@ Apaixonado por lógica, resolução de problemas e por construir coisas que func
 
 ---
 
-## 🧠 No que estou focado
+## 🧠 What I'm focused on
 
 <table align="center">
   <tr>
-    <td>☕ Desenvolvimento back-end com Java</td>
-    <td>🧩 Lógica de programação & algoritmos</td>
+    <td>☕ Back-end development with Java</td>
+    <td>🧩 Programming logic & algorithms</td>
   </tr>
   <tr>
-    <td>🗄️ Banco de dados</td>
-    <td>📚 Aprendizado contínuo</td>
+    <td>🗄️ Databases</td>
+    <td>📚 Continuous learning</td>
   </tr>
 </table>
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Tech Stack
 
 <div align="center">
 
 ![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-**📖 Estudando atualmente**
+**📖 Currently learning**
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -88,12 +89,12 @@ Apaixonado por lógica, resolução de problemas e por construir coisas que func
 
 ---
 
-## 🚀 Filosofia
+## 🚀 Philosophy
 
 <div align="center">
 
-> _"Todo dia um pouco melhor que ontem.  
-> Aprender, praticar e nunca parar de evoluir."_
+> _"A little better every day than yesterday.  
+> Learn, practice, and never stop evolving."_
 
 </div>
 
@@ -101,8 +102,8 @@ Apaixonado por lógica, resolução de problemas e por construir coisas que func
 
 <div align="center">
 
-⭐ **Se gostar do meu trabalho, deixa uma estrela em algum repositório**  
-🤝 **Sempre aberto a aprender e colaborar em projetos**
+⭐ **If you like my work, consider starring a repository**  
+🤝 **Always open to learning and collaborating on projects**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5382A1,100:E76F00&height=120&section=footer" width="100%" />
 
