@@ -31,6 +31,9 @@ Passionate about logic, problem-solving, and building things that actually work.
   <a href="https://github.com/Fhenry1">
     <img src="https://img.shields.io/badge/GitHub-FHENRY1-181717?style=for-the-badge&logo=github" />
   </a>
+  <a href="https://www.linkedin.com/in/fl%C3%A1vio-henryck-d-8267962ba/">
+    <img src="https://img.shields.io/badge/LinkedIn-Fl%C3%A1vio%20Henryck-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="https://instagram.com/fhcomsono2">
     <img src="https://img.shields.io/badge/Instagram-@FHCOMSONO2-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
