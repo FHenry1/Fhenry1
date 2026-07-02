@@ -34,8 +34,8 @@ Passionate about logic, problem-solving, and building things that actually work.
   <a href="https://www.linkedin.com/in/fl%C3%A1vio-henryck-d-8267962ba/">
     <img src="https://img.shields.io/badge/LinkedIn-Fl%C3%A1vio%20Henryck-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn - Flávio Henryck" />
   </a>
-  <a href="https://instagram.com/fhcomsono2">
-    <img src="https://img.shields.io/badge/Instagram-@FHCOMSONO2-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram - @fhcomsono2" />
+  <a href="https://instagram.com/flavio_hs_ide">
+    <img src="https://img.shields.io/badge/Instagram-@flavio__hs__ide-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram - @flavio_hs_ide" />
   </a>
   <a href="https://www.tiktok.com/@fhcomsono2">
     <img src="https://img.shields.io/badge/TikTok-@FHCOMSONO2-000000?style=for-the-badge&logo=tiktok" alt="TikTok - @fhcomsono2" />
