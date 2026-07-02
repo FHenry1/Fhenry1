@@ -49,7 +49,7 @@ Passionate about logic, problem-solving, and building things that actually work.
 <table align="center">
   <tr>
     <td>☕ <strong>Back-end development</strong> with Java</td>
-    <td>🧩 <strong>Programming logic</strong> & algorithms</td>
+    <td>🧩 <strong>Developing & improving</strong> my skills</td>
   </tr>
   <tr>
     <td>🗄️ <strong>Databases</strong></td>
