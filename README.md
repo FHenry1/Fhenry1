@@ -76,21 +76,6 @@ Passionate about logic, problem-solving, and building things that actually work.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Fhenry1&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Flávio Henry's GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fhenry1&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages used by Flávio Henry" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Fhenry1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
 ## 🚀 Philosophy
 
 <div align="center">
