@@ -88,6 +88,7 @@ Passionate about logic, problem-solving, and building things that actually work.
       <p>Geolocation platform for the UNIPÊ campus — helping students locate places such as restaurants, facilities and more. Built as my Software Engineering course final project.</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white" alt="Leaflet" />
       </p>
       <a href="https://github.com/Fhenry1/Unipetitv2">
         <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Unipetit repository" />
