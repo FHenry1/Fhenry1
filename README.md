@@ -83,7 +83,7 @@ Passionate about logic, problem-solving, and building things that actually work.
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📍🍔 Unipetit</h3>
+      <h3><img src="./assets/unipetit-pin.svg" width="22" alt="" align="center" /> Unipetit</h3>
       <p><em>Academic final project</em></p>
       <p>Geolocation platform for the UNIPÊ campus — helping students locate places such as restaurants, facilities and more. Built as my Software Engineering course final project.</p>
       <p>
