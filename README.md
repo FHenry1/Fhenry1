@@ -85,7 +85,7 @@ Passionate about logic, problem-solving, and building things that actually work.
     <td width="50%" valign="top">
       <h3>🐾 Unipetit</h3>
       <p><em>Academic final project</em></p>
-      <p>Web application built as my Software Engineering course final project.</p>
+      <p>Geolocation platform for the UNIPÊ campus — helping students locate places such as restaurants, facilities and more. Built as my Software Engineering course final project.</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
       </p>
