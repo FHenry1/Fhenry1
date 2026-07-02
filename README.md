@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E76F00,100:5382A1&height=200&section=header&text=Fl%C3%A1vio%20Henry&fontColor=ffffff&fontSize=48&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Back-end%20Java%20Developer&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E76F00,100:5382A1&height=200&section=header&text=Fl%C3%A1vio%20Henry&fontColor=ffffff&fontSize=48&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Back-end%20Java%20Developer&descAlignY=58&descSize=18" width="100%" alt="Flávio Henry — Software Engineering Student | Back-end Java Developer" />
 
 <a href="https://github.com/Fhenry1">
   <img src="https://komarev.com/ghpvc/?username=Fhenry1&label=Profile%20views&color=E76F00&style=for-the-badge" alt="Profile views" />
@@ -14,7 +14,7 @@
 
 <div align="center">
 
-### 🇧🇷 About me
+### 👋 About me
 
 I'm a **Software Engineering student** and **Junior Developer**, focused on **back-end development with Java**.  
 Always learning, evolving, and building projects to go deeper into the field.
@@ -29,16 +29,16 @@ Passionate about logic, problem-solving, and building things that actually work.
 
 <p align="center">
   <a href="https://github.com/Fhenry1">
-    <img src="https://img.shields.io/badge/GitHub-FHENRY1-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-FHENRY1-181717?style=for-the-badge&logo=github" alt="GitHub - Fhenry1" />
   </a>
   <a href="https://www.linkedin.com/in/fl%C3%A1vio-henryck-d-8267962ba/">
-    <img src="https://img.shields.io/badge/LinkedIn-Fl%C3%A1vio%20Henryck-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Fl%C3%A1vio%20Henryck-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn - Flávio Henryck" />
   </a>
   <a href="https://instagram.com/fhcomsono2">
-    <img src="https://img.shields.io/badge/Instagram-@FHCOMSONO2-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-@FHCOMSONO2-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram - @fhcomsono2" />
   </a>
   <a href="https://www.tiktok.com/@fhcomsono2">
-    <img src="https://img.shields.io/badge/TikTok-@FHCOMSONO2-000000?style=for-the-badge&logo=tiktok" />
+    <img src="https://img.shields.io/badge/TikTok-@FHCOMSONO2-000000?style=for-the-badge&logo=tiktok" alt="TikTok - @fhcomsono2" />
   </a>
 </p>
 
@@ -48,12 +48,12 @@ Passionate about logic, problem-solving, and building things that actually work.
 
 <table align="center">
   <tr>
-    <td>☕ Back-end development with Java</td>
-    <td>🧩 Programming logic & algorithms</td>
+    <td>☕ <strong>Back-end development</strong> with Java</td>
+    <td>🧩 <strong>Programming logic</strong> & algorithms</td>
   </tr>
   <tr>
-    <td>🗄️ Databases</td>
-    <td>📚 Continuous learning</td>
+    <td>🗄️ <strong>Databases</strong></td>
+    <td>📚 <strong>Continuous learning</strong></td>
   </tr>
 </table>
 
@@ -80,8 +80,8 @@ Passionate about logic, problem-solving, and building things that actually work.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Fhenry1&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fhenry1&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Fhenry1&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Flávio Henry's GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fhenry1&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages used by Flávio Henry" />
 
 <br/>
 
@@ -95,8 +95,8 @@ Passionate about logic, problem-solving, and building things that actually work.
 
 <div align="center">
 
-> _"A little better every day than yesterday.  
-> Learn, practice, and never stop evolving."_
+> _"A little **better every day** than yesterday.  
+> **Learn, practice, and never stop evolving.**"_
 
 </div>
 
@@ -107,6 +107,6 @@ Passionate about logic, problem-solving, and building things that actually work.
 ⭐ **If you like my work, consider starring a repository**  
 🤝 **Always open to learning and collaborating on projects**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5382A1,100:E76F00&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5382A1,100:E76F00&height=120&section=footer" width="100%" alt="Footer wave" />
 
 </div>
